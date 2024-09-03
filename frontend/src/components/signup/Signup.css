@@ -1,4 +1,4 @@
-.signin{
+.signup{
     width: 100%;
     height: 100vh;
     color: rgba(0, 255, 200, 0.87);
@@ -8,31 +8,29 @@
 .column{
     height: 100vh;
 }
-.col-left{
-    border-left: 1px solid rgba(0, 255, 200, 0.87);
-}
-.sign-in-heading{
+
+.sign-up-heading{
     font-size: 100px;
 } 
-.btn-signin{
+.btn-signup{
     color: white;
     outline: none;
     border-radius: 10px;
     border: none;
     background-color: rgba(0, 255, 200, 0.87);
 }
-.btn-signin:hover{
+.btn-signup:hover{
     color: white;
     
     background-color: rgba(12, 63, 52, 0.87);
 }
 
-.input-signin{
+.input-signup{
     border-radius: 5px;
     outline: none;
     border: 1px solid rgba(0, 255, 200, 0.87);
 }
-.input-signin:hover{
+.input-signup:hover{
     background-color: rgba(0, 255, 200, 0.87);
     text-align: center;
     color: white !important;
